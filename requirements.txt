@@ -1,7 +1,8 @@
-streamlit
-moviepy
-Pillow
-numpy
-opencv-python
-requests
-qrcode
+streamlit==1.32.0
+gTTS==2.4.0
+moviepy==1.0.3
+Pillow==10.2.0
+qrcode==7.4.2
+webvtt-py==0.4.6
+python-dotenv==1.0.0
+numpy==1.26.4
