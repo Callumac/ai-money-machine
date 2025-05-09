@@ -1,6 +1,6 @@
 streamlit
-gTTS
+gtts
 moviepy
-pillow
-qrcode
 numpy
+Pillow
+qrcode
