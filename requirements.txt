@@ -1,6 +1,7 @@
 streamlit
-gtts
 moviepy
-numpy
 Pillow
+numpy
+opencv-python
+requests
 qrcode
